@@ -7,7 +7,7 @@ Welcome to the Golden Age of Video Games Analysis project! In this project, we d
 
 ## Project Description
 
-In this project, you'll embark on a journey through decades of video game history, armed with SQL skills to navigate and analyze datasets containing critic and user scores, as well as sales data. Your mission is to unearth the years that stood out as the pinnacle of gaming excellence, both in terms of critical reception and commercial performance.
+In this project, we embark on a journey through decades of video game history, armed with SQL skills to navigate and analyze datasets containing critic and user scores, as well as sales data. The mission is to unearth the years that stood out as the pinnacle of gaming excellence, both in terms of critical reception and commercial performance.
 
 ### Key Tasks:
 
@@ -52,8 +52,7 @@ We welcome contributions to enhance the analysis, improve code efficiency, or ad
 ## Resources
 
 - [SQL Tutorial](https://www.w3schools.com/sql/default.asp): Brush up on your SQL skills if needed.
-- [DataCamp Datasets](https://app.datacamp.com/learn/projects/1413)
-<!-- : Explore additional datasets related to video games or data analysis projects. -->
+- [Kaggle Datasets](https://www.kaggle.com/datasets/holmjason2/videogamedata): Explore additional datasets related to video games or data analysis projects. 
 
 <!-- ## License
 
